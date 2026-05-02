@@ -2,6 +2,7 @@
 
 **Varun Mehrotra**  
 Rutgers University - New Brunswick
+
 MSDS 954 567: Statistical Models and Computing
 
 ---
